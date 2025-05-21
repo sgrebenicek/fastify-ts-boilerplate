@@ -28,8 +28,8 @@ fastify-ts-boilerplate/
 
 2. Configure environment and gitignore:
    ```bash
-   cp .env.example .env
-   cp .gitignore.example .gitignore
+   copy .env.example .env
+   copy .gitignore.example .gitignore
    ```
 
 3. Install dependencies:
